@@ -1,0 +1,37 @@
+Linha - 0 DELIMITADOR , 
+Linha - 0 DELIMITADOR . 
+Linha - 0 DELIMITADOR ; 
+Linha - 0 SÍMBOLO : 
+Linha - 0 DELIMITADOR ( 
+Linha - 0 DELIMITADOR ) 
+Linha - 0 DELIMITADOR [ 
+Linha - 0 DELIMITADOR ] 
+Linha - 0 DELIMITADOR { 
+Linha - 0 DELIMITADOR } 
+Linha - 1 OPERADOR RELACIONAL != 
+Linha - 1 OPERADOR RELACIONAL == 
+Linha - 1 OPERADOR RELACIONAL = 
+Linha - 1 OPERADOR RELACIONAL < 
+Linha - 1 OPERADOR RELACIONAL > 
+Linha - 1 OPERADOR RELACIONAL >= 
+Linha - 1 OPERADOR RELACIONAL = 
+Linha - 2 DÍGITO 9 
+Linha - 3 NÚMERO 99 
+Linha - 4 IDENTIFICADOR j 
+Linha - 5 NÚMERO 99.8 
+Linha - 6 OPERADOR LÓGICO && 
+Linha - 6 OPERADOR LÓGICO || 
+Linha - 6 SÍMBOLO | 
+Linha - 6 OPERADOR LÓGICO ! 
+Linha - 6 COMENTÁRIO DE LINHA // 
+Linha - 7 OPERADOR ARITMÉTICO * 
+Linha - 8 COMENTÁRIO DE BLOCO /**/ 
+Linha - 9 IDENTIFICADOR a 
+Linha - 9 SÍMBOLO ' 
+Linha - 9 IDENTIFICADOR sde8 
+Linha - 9 SÍMBOLO ' 
+Linha - 9 IDENTIFICADOR df 
+Linha - 10 CADEIA "gtd5" 
+Linha - 11 IDENTIFICADOR rt 
+Linha - 12 IDENTIFICADOR JI 
+Linha - 13 ERRO 45.4. 
